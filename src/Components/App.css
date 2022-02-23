@@ -1,0 +1,24 @@
+
+  body {
+    margin: 0;
+    background-color: rgb(219, 255, 255);
+  }
+
+  .design{
+      font-family: 'Times New Roman', Times, serif ;
+      color: rgb(68, 0, 0);
+      font-weight: bold;
+  }
+
+  img{
+      padding: 20px;
+      border-radius: 20px;
+      box-shadow: 6px 6px 6px 6px #888888;
+      width: 30%;
+      height: auto;
+  }
+
+  .main{
+    text-align: center;
+  }
+
